@@ -1,5 +1,4 @@
 # TODO List
-### **Video Demo:**  <URL HERE>
 ### **Description:** 
 A To-Do List is a simple, yet powerful tool for managing tasks, and organizing tasks. It is a list of activities or tasks that need to be completed. To-do lists help individuals or teams stay focused by providing a clear overview of what needs to be done.
 
